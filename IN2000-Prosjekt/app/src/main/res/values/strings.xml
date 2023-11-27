@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExtremeSport</string>
+    <string-array name="ListOfProblems">
+        <item>Finner ikke min stasjon</item>
+        <item>Applikasjonen fungerer ikke som den skal</item>
+        <item>Applikasjonen kræsjer</item>
+        <item>Andre grunner</item>
+    </string-array>
+</resources>
